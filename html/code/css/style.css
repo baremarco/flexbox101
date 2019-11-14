@@ -12,11 +12,6 @@ body{
    display: flex;
    flex-direction: column;
    background-color: #fff;
-   max-width: 980px;
-   width: 100%;
-   margin: 0 auto;
-   
-  
 }
 
 .lg {
@@ -51,6 +46,7 @@ header nav{
    /* display: flex; */
 }
 header nav section article#menu-titulo h2{
+   
    text-transform: uppercase;
    font-size: 3em;
    font-family: 'Montserrat', sans-serif;
